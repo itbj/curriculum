@@ -1,4 +1,4 @@
-# Curriculum
+# Curriculum 课程设置；课程表；课程安排  
 
 Open Source Curriculum for CNCF Certification Courses
 
